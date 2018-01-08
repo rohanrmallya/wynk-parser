@@ -1,0 +1,7 @@
+MY_MUSIC_BUTTON_ID = "menu_option_my_music"
+XPATH_FOR_PLAYLIST_NAME_FIELD = "//*[contains(@resource-id,'com.bsbportal.music:id/tv_first')]"
+XPATH_FOR_LINEAR_LAYOUT_INDEX_0 = "//android.widget.LinearLayout[@index='0']"
+XPATH_FOR_LINEAR_LAYOUT_INDEX_1 = "//android.widget.LinearLayout[@index='1']"
+XPATH_FOR_LINEAR_LAYOUT_INDEX_5 = "//android.widget.LinearLayout[@index='5']"
+XPATH_FOR_LINEAR_LAYOUT_INDEX_8 = "//android.widget.LinearLayout[@index='8']"
+XPATH_FOR_SONG_TITLE = "//*[contains(@resource-id,'com.bsbportal.music:id/song_title')]"
